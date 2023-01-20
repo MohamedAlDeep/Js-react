@@ -2,19 +2,16 @@
 JavaScript has lots of libraries and modules and sometimes they are essential for web development.
 ## Vanilla 
 The vanilla 
-
 1. HTML
-
 2. CSS
-
-3.Javascript
+3. Javascript
 
 *Does not need any dependencies* 
 ## React
 React is one of important frameworks for web development it makes lots of things easier.
 This example shows how it is necessary to learn at least one framework or library or module whatever you call it.
 
-The ***"./basicHtml"*** folder is the vanilla web while the ***"./react/js"*** is the react project.
+The **"./basicHtml"** folder is the vanilla web while the **"./react/js"** is the react project.
 
 *Requires dependencies as shown bellow*
 ## Downloads
