@@ -21,7 +21,7 @@ The **"./basicHtml"** folder is the vanilla web while the **"./react/js"** is th
 2. Go to terminal
    - Write the next code 
    ```
-   npm create vite@latest
+   npm i
    ```
    - Then
    ```
