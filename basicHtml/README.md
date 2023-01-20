@@ -13,5 +13,7 @@ The file contains main *div* with class of "container" that wraps all html under
 The name attribute in *input* tag is not important in this case (Subject to change).
 ## CSS
 Basic css no fancy stuff. I did a little reset for the body. And used the grid for displaying the buttons. Then made a little hover animation for the buttons. 
-Then changed the background color to match with the buttons color 
+Then changed the background color to match with the buttons color.
+## JavaScript 
+
 
