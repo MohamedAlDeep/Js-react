@@ -2,8 +2,11 @@
 JavaScript has lots of libraries and modules and sometimes they are essential for web development.
 ## Vanilla 
 The vanilla 
+
 1. HTML
+
 2. CSS
+
 3.Javascript
 
 *Does not need any dependencies* 
