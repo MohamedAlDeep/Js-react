@@ -1,0 +1,27 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: rgb(231, 210, 210);
+    scale: 70%;
+}
+.root{
+    padding: 1.2rem;
+    display: grid;
+    grid-template-columns: repeat(2, 8rem);
+    gap: 5rem;
+}
+input{
+
+    color: rgb(209, 60, 60);
+    padding: 1rem 2rem;
+    font-size: 1.4rem;
+    border-radius: 1.2rem;
+    border-color: transparent;
+}
+input:hover{
+    color: rgb(255, 255, 255);
+    background-color: rgb(209, 60, 60);
+    padding: 1rem 2rem;
+    font-size: 1.4rem;
+    
+}
