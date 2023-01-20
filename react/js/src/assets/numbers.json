@@ -1,0 +1,57 @@
+[
+    {
+        "id": "1",
+        "value": "0",
+        "text": "zero"
+    },
+    {
+        "id": "2",
+        "value": "1",
+        "text": "one"
+    },
+    {
+        "id": "3",
+        "value": "2",
+        "text": "two"
+    },
+    {
+        "id": "4",
+        "value": "3",
+        "text": "three"
+    },
+    {
+        "id": "5",
+        "value": "4",
+        "text": "four"
+    },
+    {
+        "id": "6",
+        "value": "5",
+        "text": "five"
+    },
+    {
+        "id": "7",
+        "value": "6",
+        "text": "six"
+    },
+    {
+        "id": "8",
+        "value": "7",
+        "text": "seven"
+    },
+    {
+        "id": "9",
+        "value": "8",
+        "text": "eight"
+    },
+    {
+        "id": "10",
+        "value": "9",
+        "text": "nine"
+    },
+    {
+        "id": "11",
+        "value": "+",
+        "text": "plus"
+    }
+]
