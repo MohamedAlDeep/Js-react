@@ -20,7 +20,7 @@ If you want to work on this project do what follows
 1. Fork the repository
 
 2. Clone the repo to your device
-**Install git before doing this from [https://git-scm.com/](Git_Download)**
+**Install git before doing this from [Git Download](https://git-scm.com/)**
 ```
  git clone https://github.com/MohamedAlDeep/Js-react.git
 ```
